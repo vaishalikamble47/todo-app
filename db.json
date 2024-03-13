@@ -1,0 +1,28 @@
+{
+  "UserDatalist": [
+    {
+      "name": "john",
+      "education": "BE",
+      "email": "john@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Brouce",
+      "education": "BCA",
+      "email": "brouce@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Erica",
+      "education": "graduation",
+      "email": "erica@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Test User",
+      "education": "B.Pharm",
+      "email": "testuser@gmail.com",
+      "id": 10
+    }
+  ]
+}
